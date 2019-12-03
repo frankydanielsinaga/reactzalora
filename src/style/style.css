@@ -1,0 +1,44 @@
+.wraaper{
+    height: auto;
+    margin: auto;
+}
+
+.header{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
+
+.navbar{
+    height: 100px;
+    width: 1200px;
+    margin: auto;
+    
+}
+
+.logo{
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+
+.imgfluid{
+    margin-left: 40px;
+}
+
+.menu{
+    width: 600px;
+    height: 100px;
+    float: right;
+}
+
+
+.menu ul li {
+    float: left;
+    margin-right: 30px;
+    list-style: none;
+    line-height: 60px;
+    color: white;
+    width: 50px;
+    text-decoration: none;
+}
